@@ -1,0 +1,9 @@
+../Core/Src/WS2812B.c:12:6:wait_290us	3
+../Core/Src/WS2812B.c:24:6:WS2812B_red	4
+../Core/Src/WS2812B.c:50:6:WS2812B_orange	4
+../Core/Src/WS2812B.c:76:6:WS2812B_yellow	4
+../Core/Src/WS2812B.c:102:6:WS2812B_green	4
+../Core/Src/WS2812B.c:128:6:WS2812B_light_blue	4
+../Core/Src/WS2812B.c:154:6:WS2812B_blue	4
+../Core/Src/WS2812B.c:180:6:WS2812B_purple	4
+../Core/Src/WS2812B.c:206:6:WS2812B_white	4
